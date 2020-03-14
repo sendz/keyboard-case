@@ -1,6 +1,13 @@
 # Keyboard Case
 Keyboard Case Collection
 
+# List of Case
+* 60% GH60 clone with various layouts (Sandwich)
+* Discipline (Plates and Sandwich)
+* Plaid (Sandwich)
+* Romac (Plates)
+* Lubing station (beta)
+
 # Donation
 Buy me some Alps or Cherry switch by send donation to [PayPal](https://paypal.me/sendysuryana) :D
 
