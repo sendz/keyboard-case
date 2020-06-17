@@ -7,7 +7,7 @@ Keyboard Case Collection
 * Plaid (Sandwich)
 * Romac (Plates)
 * Lubing station (beta)
-* VortexSeries VX5 (Sandwich Case)
+* VortexSeries VX5 (Sandwich Case, use stock plate)
 
 # Donation
 Buy me some Alps or Cherry switch by send donation to [PayPal](https://paypal.me/sendysuryana) :D
