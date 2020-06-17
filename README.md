@@ -10,7 +10,7 @@ Keyboard Case Collection
 * VortexSeries VX5 (Sandwich Case, use stock plate)
 
 # Donation
-Buy me some Alps or Cherry switch by send donation to [PayPal](https://paypal.me/sendysuryana) :D
+Buy me some Alps or Cherry switch by send donation to [PayPal](https://paypal.me/sendysuryana) or direct transfer to my Jenius cashtag `$sendz` (Indonesia Only) :D
 
 # License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
