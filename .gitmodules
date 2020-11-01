@@ -1,0 +1,3 @@
+[submodule "pheromone_keyboard"]
+	path = pheromone_keyboard
+	url = https://github.com/sendz/pheromone_keyboard
