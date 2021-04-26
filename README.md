@@ -16,5 +16,7 @@ Buy me some Alps or Cherry switch by send donation to [PayPal](https://paypal.me
 Find your laser cutter vendor and give them SVG file, or [convert it by yourself to PDF](https://inkscape-manuals.readthedocs.io/en/latest/export-pdf.html) first using [Inkscape](https://inkscape.org/) editor, make sure you do double check about the exported dimensions with your vendor, there might be slight difference in micrometer between Inkscape and Corel, better you do a trial run before going to actual production if your vendor utilize different software than Inkscape.
 
 ## License
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This license means you are allowed to modify and reuse the works I shared, but you can't use it as commercial purpose or making any money from it.
